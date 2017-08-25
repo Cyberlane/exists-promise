@@ -1,3 +1,6 @@
+
+[![Version](http://img.shields.io/npm/v/exists-promise.svg)](https://www.npmjs.org/package/exists-promise)
+
 # exists-promise
 
 Check if a file exists with a Promise.
