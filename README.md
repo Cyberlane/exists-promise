@@ -1,5 +1,5 @@
-
 [![Version](http://img.shields.io/npm/v/exists-promise.svg)](https://www.npmjs.org/package/exists-promise)
+[![npm](https://img.shields.io/npm/dt/exists-promise.svg)](Downloads)
 
 # exists-promise
 
